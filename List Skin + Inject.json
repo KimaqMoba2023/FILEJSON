@@ -1,12 +1,26 @@
 [
   {
-    "IMG": "https://static.wikia.nocookie.net/mobile-legends/images/e/e8/Duke_of_Shards.jpg/revision/latest/scale-to-width-down/250?cb=20220219033921",
+    "IMG": "https://static.wikia.nocookie.net/mobile-legends/images/c/c8/Hero1091-portrait.png/revision/latest?cb=20220525171725",
     "NAMA": "Aamon 1",
+    "NAMA SKIN": "Aamon Backup",
     "URL": "https://github.com/Jeic06/backups/blob/main/Aamon%20backup.zip?raw=true"
   },
   {
-    "IMG": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Night%27s_Edge.jpg/revision/latest/scale-to-width-down/250?cb=20211201153222",
+    "IMG": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero1092-portrait.png/revision/latest?cb=20220525170510",
     "NAMA": "Aamon 2",
+    "NAMA SKIN": "Aamon Night's Edge",
+    "URL": "https://github.com/Afornax/Assassin/blob/main/AamonBasic.zip?raw=true"
+  },
+  {
+    "IMG": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero1093-portrait.png/revision/latest?cb=20220628175950",
+    "NAMA": "Aamon 3",
+    "NAMA SKIN": "Aamon Noble Crest",
+    "URL": "https://github.com/Afornax/Assassin/blob/main/AamonBasic.zip?raw=true"
+  },
+  {
+    "IMG": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero1094-portrait.png/revision/latest?cb=20221216103151",
+    "NAMA": "Aamon 4",
+    "NAMA SKIN": "Aamon Cyber Assassin",
     "URL": "https://github.com/Afornax/Assassin/blob/main/AamonBasic.zip?raw=true"
   }
 ]
