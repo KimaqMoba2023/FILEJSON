@@ -1,11 +1,21 @@
 [
  {
-    "JUDUL": "Visual Skin",
-    "DEPKIPSI": "Skin, Custom Skin"
+    "JUDUL": "Default Skin",
+    "DEPKIPSI": "All Skin Mlbb"
   },
 {
-    "JUDUL": "Custom Effect",
-    "DEPKIPSI": "Battle Emot,Recalls, Background, Intro ,Dll",
+    "JUDUL": "Replace Skin",
+    "DEPKIPSI": "Skin Custom Mlbb",
+    "BANNER": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxD1ORbZOk42LF_XxW1gfHm2H39AZSxSQLfg&usqp=CAU"
+  },
+{
+    "JUDUL": "Battle Efect",
+    "DEPKIPSI": "Recall,Eliminasi,Spawn,Emot,Notifikasi Kill",
+    "BANNER": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4i-jhHILnTWimjbl2XpeIB1q4aPya1CE4Aw&usqp=CAU"
+},
+{
+    "JUDUL": "Desain Mlbb",
+    "DEPKIPSI": "Intro,Map,Map Lc,Loby Background,Analog",
     "BANNER": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxD1ORbZOk42LF_XxW1gfHm2H39AZSxSQLfg&usqp=CAU"
   },
 {
